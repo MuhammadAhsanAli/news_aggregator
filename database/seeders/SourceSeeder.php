@@ -12,7 +12,6 @@ class SourceSeeder extends Seeder
      *
      * @return void
      */
-    //php artisan db:seed --class=SourceSeeder
     public function run()
     {
         // List of sources to be seeded
