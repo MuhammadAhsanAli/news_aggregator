@@ -26,14 +26,14 @@ To configure the database for the News Aggregator API, follow these steps:
 
 Open the `.env` file using your preferred text editor.
 
-    ```env
+```bash
     DB_CONNECTION=mysql
     DB_HOST=127.0.0.1
     DB_PORT=3306
     DB_DATABASE=your_database_name
     DB_USERNAME=your_database_user
     DB_PASSWORD=your_database_password
-    ```
+```
 ### 4. Create Database
 
 Run the following command to create the database:
