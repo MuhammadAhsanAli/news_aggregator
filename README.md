@@ -34,8 +34,6 @@ Open the `.env` file using your preferred text editor.
     DB_USERNAME=your_database_user
     DB_PASSWORD=your_database_password
     ```
----
-
 ### 4. Create Database
 
 Run the following command to create the database:
